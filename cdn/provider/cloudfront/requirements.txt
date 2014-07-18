@@ -1,0 +1,2 @@
+boto
+httplib2>=0.8
